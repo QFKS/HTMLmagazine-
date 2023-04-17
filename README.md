@@ -1,1 +1,2 @@
 # HTMLmagazine-
+From figma maket
